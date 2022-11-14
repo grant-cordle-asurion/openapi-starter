@@ -11,6 +11,7 @@ info:
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
   x-logo:
     url: 'https://redocly.github.io/openapi-template/logo.png'
+  fax: 1230423042
   description:
     $ref: ./info-description.md
 tags:
